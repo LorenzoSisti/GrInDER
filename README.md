@@ -1,0 +1,3 @@
+# GrInDER: a GRaph-based approach for predicting INteracting DimERs affinity
+
+Work in progress...
